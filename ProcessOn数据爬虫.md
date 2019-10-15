@@ -25,4 +25,4 @@
 
 ## 2、克隆
 
-连接：https://www.processon.com/diagraming/clone_check?chartId=5af27754e4b0102f770e7275
+链接：https://www.processon.com/diagraming/clone_check?chartId=5af27754e4b0102f770e7275
